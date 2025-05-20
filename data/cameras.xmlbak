@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<chessboardSetting>
+  <width>8</width>
+  <height>6</height>
+  <squareSize>29.</squareSize></chessboardSetting>
+<imageResolution>
+  <width>2560</width>
+  <height>1440</height></imageResolution>
+<parameters>
+  <front>
+    <devId>0</devId>
+    <intrinsicReady>1</intrinsicReady>
+    <extrinsicReady>0</extrinsicReady>
+    <fusionReady>0</fusionReady>
+    <intrinsic type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>3</cols>
+      <dt>d</dt>
+      <data>
+        8.5838308328236758e+02 0. 1.2762103289926663e+03 0.
+        8.6481725033148678e+02 7.0570801844526898e+02 0. 0. 1.</data></intrinsic>
+    <dist type_id="opencv-matrix">
+      <rows>4</rows>
+      <cols>1</cols>
+      <dt>d</dt>
+      <data>
+        -8.6292262268346159e-02 1.3139919981455978e-01
+        -9.0312627612964005e-02 2.1652023831150446e-02</data></dist>
+    <extrinsic type_id="opencv-matrix">
+      <rows>0</rows>
+      <cols>0</cols>
+      <dt>u</dt>
+      <data></data></extrinsic>
+    <cvFusion type_id="opencv-matrix">
+      <rows>0</rows>
+      <cols>0</cols>
+      <dt>u</dt>
+      <data></data></cvFusion></front>
+  <left>
+    <devId>1</devId>
+    <intrinsicReady>1</intrinsicReady>
+    <extrinsicReady>0</extrinsicReady>
+    <fusionReady>0</fusionReady>
+    <intrinsic type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>3</cols>
+      <dt>d</dt>
+      <data>
+        8.4558913378181524e+02 0. 1.2965629578149055e+03 0.
+        8.4494850601396013e+02 6.8738834025150993e+02 0. 0. 1.</data></intrinsic>
+    <dist type_id="opencv-matrix">
+      <rows>4</rows>
+      <cols>1</cols>
+      <dt>d</dt>
+      <data>
+        -4.0928305723978202e-02 4.0682818759896405e-02
+        -2.8862869898526450e-02 6.6899563542312454e-03</data></dist>
+    <extrinsic type_id="opencv-matrix">
+      <rows>0</rows>
+      <cols>0</cols>
+      <dt>u</dt>
+      <data></data></extrinsic>
+    <cvFusion type_id="opencv-matrix">
+      <rows>0</rows>
+      <cols>0</cols>
+      <dt>u</dt>
+      <data></data></cvFusion></left>
+  <back>
+    <devId>2</devId>
+    <intrinsicReady>1</intrinsicReady>
+    <extrinsicReady>0</extrinsicReady>
+    <fusionReady>0</fusionReady>
+    <intrinsic type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>3</cols>
+      <dt>d</dt>
+      <data>
+        8.4476388166821403e+02 0. 1.2622193555478725e+03 0.
+        8.4337270738019299e+02 6.7773122102036768e+02 0. 0. 1.</data></intrinsic>
+    <dist type_id="opencv-matrix">
+      <rows>4</rows>
+      <cols>1</cols>
+      <dt>d</dt>
+      <data>
+        -5.2968223219011325e-02 5.4763244345514134e-02
+        -4.2739682433153528e-02 1.1197211113322229e-02</data></dist>
+    <extrinsic type_id="opencv-matrix">
+      <rows>0</rows>
+      <cols>0</cols>
+      <dt>u</dt>
+      <data></data></extrinsic>
+    <cvFusion type_id="opencv-matrix">
+      <rows>0</rows>
+      <cols>0</cols>
+      <dt>u</dt>
+      <data></data></cvFusion></back>
+  <right>
+    <devId>3</devId>
+    <intrinsicReady>1</intrinsicReady>
+    <extrinsicReady>0</extrinsicReady>
+    <fusionReady>0</fusionReady>
+    <intrinsic type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>3</cols>
+      <dt>d</dt>
+      <data>
+        8.4991683221891083e+02 0. 1.2812998577352089e+03 0.
+        8.5065361326916548e+02 6.7773319138115710e+02 0. 0. 1.</data></intrinsic>
+    <dist type_id="opencv-matrix">
+      <rows>4</rows>
+      <cols>1</cols>
+      <dt>d</dt>
+      <data>
+        -5.6290333431260484e-02 4.2698919763622493e-02
+        -2.6244578636173306e-02 6.2660323374961781e-03</data></dist>
+    <extrinsic type_id="opencv-matrix">
+      <rows>0</rows>
+      <cols>0</cols>
+      <dt>u</dt>
+      <data></data></extrinsic>
+    <cvFusion type_id="opencv-matrix">
+      <rows>0</rows>
+      <cols>0</cols>
+      <dt>u</dt>
+      <data></data></cvFusion></right></parameters>
+</opencv_storage>

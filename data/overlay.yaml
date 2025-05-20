@@ -1,0 +1,34 @@
+%YAML:1.0
+---
+resolution: !!opencv-matrix
+   rows: 2
+   cols: 1
+   dt: i
+   data: [ 1080, 1279 ]
+rtrc: !!opencv-matrix
+   rows: 4
+   cols: 1
+   dt: d
+   data: [ 674., 0., 406., 444. ]
+ltrc: !!opencv-matrix
+   rows: 4
+   cols: 1
+   dt: d
+   data: [ 0., 0., 399., 429. ]
+rbrc: !!opencv-matrix
+   rows: 4
+   cols: 1
+   dt: d
+   data: [ 695., 760., 385., 519. ]
+lbrc: !!opencv-matrix
+   rows: 4
+   cols: 1
+   dt: d
+   data: [ 0., 742., 370., 537. ]
+weight: "weight.png"
+mask: "midmask.png"
+centrc: !!opencv-matrix
+   rows: 4
+   cols: 1
+   dt: d
+   data: [ 361., 411., 347., 362. ]

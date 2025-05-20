@@ -1,0 +1,44 @@
+<RCC>
+  <qresource prefix="/PDVDetection">
+    <file>../style/dark.qss</file>
+    <file>../style/DeepBox.qss</file>
+    <file>../style/Gravira.qss</file>
+    <file>../style/Medize.qss</file>
+    <file>../style/Obit.qss</file>
+    <file>../style/SpyBot.qss</file>
+    <file>../style/dark.qss</file>
+    <file>../style/Gravira.qss</file>
+    <file>../style/Medize.qss</file>
+  </qresource>
+  <qresource prefix="/image">
+    <file>../images/app.png</file>
+    <file>../images/loader.jpg</file>
+  </qresource>
+  <qresource prefix="/toolbar">
+    <file>../images/capture.png</file>
+    <file>../images/1.png</file>
+    <file>../images/2.png</file>
+    <file>../images/3.png</file>
+    <file>../images/4.png</file>
+    <file>../images/5.png</file>
+    <file>../images/fullscreen.png</file>
+    <file>../images/cmrchannel.png</file>
+    <file>../images/exiton.png</file>
+    <file>../images/about.png</file>
+    <file>../images/alarm.png</file>
+    <file>../images/alarmoff.png</file>
+    <file>../images/cameraoff.png</file>
+    <file>../images/cameraon.png</file>
+    <file>../images/eyeoff.png</file>
+    <file>../images/eyeon.png</file>
+    <file>../images/outputoff.png</file>
+    <file>../images/outputon.png</file>
+    <file>../images/plcon.png</file>
+    <file>../images/plconff.png</file>
+    <file>../images/toolbaroff.png</file>
+    <file>../images/toolbaron.png</file>
+    <file>../images/zoom100.png</file>
+    <file>../images/zoomin.png</file>
+    <file>../images/zoomout.png</file>
+  </qresource>
+</RCC>
